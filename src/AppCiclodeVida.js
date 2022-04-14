@@ -20,9 +20,6 @@ class App extends Component {
         console.log("ATUALIZOU!")
     }
 
-    shouldComponentUpdate(){
-
-    }
     render(){
         return(
             <div>
